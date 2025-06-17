@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/kenblu24/fishbun
+maintainer = kenblu24 <kenblu24@hotmail.com>
+description = A familiar theme with goodies.
